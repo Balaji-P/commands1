@@ -1,5 +1,5 @@
 ********************************************************************************
-in linux machine 1
+in linux machine 1 (server)
 
 #yum install git -y
 #mkdir -p /usr/opt/git1
@@ -34,7 +34,7 @@ su - leo
 
 ************************************************************************************************************************
 
-in linux machine 1 itself create new another user
+in linux machine 1 itself create new another user (client)
 useradd vijay
 
 #su - vijay
